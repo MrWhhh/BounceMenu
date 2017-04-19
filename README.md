@@ -15,3 +15,5 @@ Step 2. Add the dependency
 	dependencies {
 	        compile 'com.github.MrWhhh:BounceMenuDemo:-SNAPSHOT'
 	}
+
+1.0.0
