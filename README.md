@@ -1,6 +1,7 @@
 # BounceMenuDemo
 仿新浪微博弹跳菜单
 
+![image](https://github.com/MrWhhh/BounceMenu/raw/master/gif1.gif)
 
 Add it in your root build.gradle at the end of repositories:
 
