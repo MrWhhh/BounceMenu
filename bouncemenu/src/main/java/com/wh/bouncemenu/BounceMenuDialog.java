@@ -13,7 +13,7 @@ import java.util.List;
 /**
  * @author MrWhhh .
  * @date : 2017/4/19 .
- * @description : .
+ * @description : 弹出dialog.
  */
 public class BounceMenuDialog implements BounceMenuView.BounceMenuInterface {
 
